@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@metamask/legacy-web3": "^2.0.0",
+    "@truffle/hdwallet-provider": "^2.0.7",
+    "truffle": "^5.5.11",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}

@@ -1,2 +1,2 @@
-# onekoCrawdsale
-Miaw Miow Miaw Miaw
+# dappCrowdsale
+dapp crowdsale using truffle
